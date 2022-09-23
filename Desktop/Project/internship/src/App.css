@@ -13,12 +13,12 @@
     background-color: #E5E5E5;
     margin: 10px;
     padding: 10px;
-    
+
 }
 
 .container {
     display: flex;
-    grid-gap: 30px;
+    grid-gap: 29px;
 }
 
 .home {

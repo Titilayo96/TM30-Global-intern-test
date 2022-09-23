@@ -26,7 +26,7 @@ const  Charts = () => {
     },
     {
       type: "Fun",
-      value: 450,
+      value: 90,
       color: "#E289F2"
     }
   ]} />
